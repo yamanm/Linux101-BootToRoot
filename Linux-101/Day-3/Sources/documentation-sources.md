@@ -1,0 +1,8 @@
+[1]: https://www.linuxfoundation.org/ "Linux Foundation - Decentralized innovation, built with trust"
+[2]: https://www.writethedocs.org/guide/ "Software documentation guide — Write the Docs"
+[3]: https://opensource.guide/starting-a-project/ "Starting an Open Source Project | Open Source Guides"
+[4]: https://developers.google.com/tech-writing/one "Technical Writing One introduction  |  Google for Developers"
+[5]: https://developers.google.com/tech-writing/two "Technical Writing Two introduction  |  Google for Developers"
+[6]: https://developers.google.com/tech-writing/accessibility "Tech Writing for Accessibility  |  Technical Writing  |  Google for Developers"
+[7]: https://developers.google.com/tech-writing/error-messages "Writing Helpful Error Messages  |  Technical Writing  |  Google for Developers"
+[8]: https://opensource.guide/best-practices/ "Best Practices for Maintainers | Open Source Guides"

@@ -21,3 +21,6 @@ This document contains the full chapter breakdown of Linux101. The outline will 
 - 1.1.3 Distribution Models and Enterprise Selection Criteria
 - 1.1.4 Linux File System Hierarchy (FHS)
 
+### Day 3
+
+**Enterprise Documentation Guide**
