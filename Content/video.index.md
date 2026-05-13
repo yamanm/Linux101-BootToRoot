@@ -10,3 +10,6 @@
 | Day-2.3 | Distribution Models and Enterprise Selection Criteria | https://www.youtube.com/watch?v=R_KvxuJaoKQ&list=PLY_8SX8PjpMhg3aRP4E0qku7rDUuKRnq4&index=7        |
 | Day-2.4 | First Terminal Command                                | https://www.youtube.com/watch?v=ejMgTnN1q74&list=PLY_8SX8PjpMhg3aRP4E0qku7rDUuKRnq4&index=8        |
 | Day-2.5 | Linux File System Hierarchy (FHS)                     | https://www.youtube.com/watch?v=qtamcOgW000&list=PLY_8SX8PjpMhg3aRP4E0qku7rDUuKRnq4&index=9&t=988s |
+| Day-3.1 | Introduction to Linux Projects                        | https://www.youtube.com/watch?v=79yf8IqvwUg&list=PLY_8SX8PjpMhg3aRP4E0qku7rDUuKRnq4&index=10       |
+| Day-3.2 | Linux Project Documentation                           | https://www.youtube.com/watch?v=SLPBEhnnvfY&list=PLY_8SX8PjpMhg3aRP4E0qku7rDUuKRnq4&index=11       |
+| Day-3.3 | GitHub Project Min Sets                               | https://www.youtube.com/watch?v=D7eGF2XndyM&list=PLY_8SX8PjpMhg3aRP4E0qku7rDUuKRnq4&index=12       |

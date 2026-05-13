@@ -1,10 +1,9 @@
+### Chapter 1.1: Linux Ecosystem and Operating System Architecture
 
-### Chapter 1.1: Linux Ekosistemi ve İşletim Sistemi Mimarisi
+#### 1.1.1 Modern Operating System Architecture
 
-#### 1.1.1 Modern İşletim Sistemi Yapısı
+#### 1.1.2 Linux History and Development Process
 
-#### 1.1.2 Linux Tarihçesi ve Gelişim Süreci
+#### 1.1.3 Distribution Models and Enterprise Selection Criteria
 
-#### 1.1.3 Dağıtım Modelleri ve Enterprise Seçim Kriterleri
-
-#### 1.1.4 Linux Dosya Sistemi Hiyerarşisi (FHS)
+#### 1.1.4 Linux File System Hierarchy (FHS)
