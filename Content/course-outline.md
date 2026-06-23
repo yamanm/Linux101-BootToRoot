@@ -21,7 +21,7 @@ This document contains the full chapter breakdown of Linux101. The outline will 
 - 1.1.3 Distribution Models and Enterprise Selection Criteria
 - 1.1.4 Linux File System Hierarchy (FHS)
 
-### Day 3
+### Day 3 (Project)
 
 **Enterprise Documentation Guide**
 
@@ -34,3 +34,7 @@ This document contains the full chapter breakdown of Linux101. The outline will 
 - 1.2.3 Disk Partitioning Strategies
 - 1.2.4 Minimal vs Full Installations
 - 1.2.5 Post-Installation Configuration
+
+### Day 6 & Day 7 (Project)
+
+**Linux Server Infrastructure Project**
