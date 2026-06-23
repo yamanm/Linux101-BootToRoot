@@ -17,4 +17,9 @@ All notable changes to this repository will be documented here.
 
 - Day0 content
 - Day1 content
+- Day2 content
+- Day3 content
+- Day4 & Day5 content
+- Day6 & Day7 content
+
 
